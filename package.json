@@ -14,7 +14,7 @@
   ],
   "author": "ahmed",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^3.1.11"
   }
 }
