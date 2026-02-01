@@ -1,0 +1,6 @@
+installed
+ mongoose 
+ express
+ dotenv
+ nodemon
+
